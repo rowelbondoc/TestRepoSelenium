@@ -4225,11 +4225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rowel.bondoc\\source\\repos\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\rowel.bondoc\\Documents\\GitHub\\TestRepoSelenium\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "projectName": "SeleniumCSharpNetCore",
-      "projectPath": "C:\\Users\\rowel.bondoc\\source\\repos\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectPath": "C:\\Users\\rowel.bondoc\\Documents\\GitHub\\TestRepoSelenium\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "packagesPath": "C:\\Users\\rowel.bondoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rowel.bondoc\\source\\repos\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\obj\\",
+      "outputPath": "C:\\Users\\rowel.bondoc\\Documents\\GitHub\\TestRepoSelenium\\SeleniumCSharpNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
